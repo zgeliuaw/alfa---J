@@ -307,7 +307,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #ff0000;
+  color: #000;
 }
 
 .section-title--border::after {
